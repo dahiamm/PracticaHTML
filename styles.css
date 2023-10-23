@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Pangolin', cursive;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.header {
+    background-color: #1D6E87;
+    color: white;
+    padding: 10px;
+}
+
+.contenido h1{
+    color: #1D6E87;
+    text-align: center;
+}
+
+.contenido h5{
+    color: #1D6E87;
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.menu-lateral {
+    margin-top: 20px;
+}
+
+.contenido {
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.btn{
+    margin-top: 20px;
+}
